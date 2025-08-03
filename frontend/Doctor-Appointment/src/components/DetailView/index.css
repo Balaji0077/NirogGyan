@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+.details-bg{
+    background-image : url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F741760.jpg&f=1&nofb=1&ipt=4ec1139a7874078d4ea31f817bf7c4a8fd5953fcc15b8ea5e2c0e8513a2f87dd");
+    background-size:cover;
+    height: 90vh;
+}
