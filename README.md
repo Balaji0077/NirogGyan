@@ -32,17 +32,17 @@
 
 ##  How to Run the Project
 ### 1. Clone the Repository
-git clone https://github.com/Balaji0077/NirogGyan.git
+- git clone https://github.com/Balaji0077/NirogGyan.git
 
 ### 2. Run Backend 
-cd backend
-npm install
-node server.js
-Backend: http://localhost:3000
+- cd backend
+- npm install
+- node server.js
+- Backend: http://localhost:3000
 
 ### 3. Run Frontend
-cd frontend
-cd Doctor-Appointment
-npm install
-npm run dev
-Frontend: http://localhost:5173
+- cd frontend
+- cd Doctor-Appointment
+- npm install
+- npm run dev
+- Frontend: http://localhost:5173
