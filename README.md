@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment Booking App
+# Doctor Appointment Booking App
 
 ##  Tools & Libraries Used
 
@@ -22,9 +22,27 @@
 - Implement **ratings & reviews** for doctors
 - Show **real-time slot availability**
 - Add **admin dashboard** for doctor/appointment management
+  
 - Improve **mobile responsiveness** further with Tailwind breakpoints
   
 ## Challenges Faced & Solutions
 - Data not persisting between pages
 - Managing extended doctor details
-- Styling quickly while keeping consistency 
+- Styling quickly while keeping consistency
+
+##  How to Run the Project
+### 1. Clone the Repository
+git clone https://github.com/Balaji0077/NirogGyan.git
+
+### 2. Run Backend 
+cd backend
+npm install
+node server.js
+Backend: http://localhost:3000
+
+### 3. Run Frontend
+cd frontend
+cd Doctor-Appointment
+npm install
+npm run dev
+Frontend: http://localhost:5173
